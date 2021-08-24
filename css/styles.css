@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  font-family: Merriweather, serif;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 60px;
+  margin-bottom:0px;
+  font-family: Sacramento, serif;
+  color:#66BFBF;
+
+}
+
+h2 {
+  color:#66BFBF;
+  /* font-weight: normal; */
+  font-family: Merriweather, serif;
+  text-align: center;
+  font-weight:bold;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-family: Merriweather, serif;
+  color:#11999E;
+}
+hr {
+  /* margin-left: 0; */
+  border-style: none;
+  width: 5%;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 25px;
+}
+.nerd{
+  position: relative;
+  left: 45%;
+  width: 150px;
+  height: 200px;
+
+}
+.hello{
+  text-align: center;
+}
+.Profile{
+  position:relative;
+  left:43%;
+  height:200px;
+  width:200px;
+  border-radius: 100%;
+}
+.Skills{
+  text-align:center;
+  font-weight:bold;
+  font-size: 2.5em;
+}
+.table{
+  position: relative;
+  width: 100px;
+  height: 135px;
+  float: left;
+  margin-right: 40px;
+}
+.Tables{
+  line-height: 2;
+}
+.skill-row{
+  text-align: left;
+  width:50%;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.cp{
+  float: right;
+  margin-left: 40px;
+}
+.ask{
+  text-align:center;
+  line-height: 2;
+  font-size: 18px;
+}
+.BUTTON {
+   position: relative;
+   left:47%;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   height: 1px;
+   line-height: 1px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 100px;
+   font-size: 19px;
+   font-weight: 400;
+   padding: 17px;
+   /* border-color-hover: ; */
+   border-style-hover: solid;
+   border-width-hover: 1;
+   background-color: #66BFBF;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON:hover {
+   background: #FFFFFF;
+   color: #66BFBF;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+.contact-me{
+  width:100%;
+}
+.bottom-container{
+  padding: 50px 0px 20px;
+  height: 200px;
+  width:100%;
+  background-color:#66BFBF;
+}
+.footer-link{
+
+  display: inline;
+  margin-right: 20px;
+  margin-top: 40px;
+  color: #11999E;
+  font-size: 20px;
+  text-decoration: none;
+}
+.cf{
+  margin-left: 40%;
+}
+.Name{
+  color: white;
+  text-align:center;
+}
